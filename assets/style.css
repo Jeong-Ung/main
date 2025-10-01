@@ -1,0 +1,5 @@
+body{max-width:900px;margin:2rem auto;padding:0 1rem;line-height:1.6;font-family:system-ui,AppleSDGothicNeo,Helvetica,Arial,sans-serif}
+header h1{margin:0}
+nav a{margin-right:.8rem;text-decoration:none}
+nav a:hover{text-decoration:underline}
+h2{margin-top:2rem}
